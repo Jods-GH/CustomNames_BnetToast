@@ -1,0 +1,4 @@
+package-as: CustomNames_BnetToast
+
+externals:
+    Libs/LibStub: https://repos.curseforge.com/wow/libstub/trunk
