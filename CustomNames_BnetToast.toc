@@ -5,6 +5,7 @@
 ## Author: Jods
 ## X-Curse-Project-ID: 1748153
 ## X-Wago-ID: bGoYJ860
+## IconTexture: Interface\AddOns\CustomNames_BnetToast\Media\Logo.tga
 ## RequiredDeps: CustomNames
 ## OptionalDeps: ViragDevTool
 ## Category-enUS: User Interface
